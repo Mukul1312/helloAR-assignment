@@ -1,3 +1,3 @@
-import { useImages as useImage } from "./useImages";
+import { useVideos as useVideos } from "./useVideos";
 
-export { useImage };
+export { useVideos };
